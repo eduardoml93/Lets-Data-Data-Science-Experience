@@ -1,0 +1,6 @@
+notebook
+pandas
+numpy
+scikit-learn
+requests
+matplotlib

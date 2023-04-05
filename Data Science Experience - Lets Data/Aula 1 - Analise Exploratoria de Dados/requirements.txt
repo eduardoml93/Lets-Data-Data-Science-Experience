@@ -1,0 +1,6 @@
+notebook
+pandas
+plotly
+seaborn
+statsmodels
+geopandas
